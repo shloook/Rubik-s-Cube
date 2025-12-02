@@ -1,0 +1,9 @@
+{
+  "short_name": "Rubiks3D",
+  "name": "3D Rubik's Cube",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#09090b",
+  "background_color": "#09090b",
+  "icons": []
+}

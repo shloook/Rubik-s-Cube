@@ -1,0 +1,5 @@
+{
+  "name": "Realistic 3D Rubik's Cube",
+  "description": "A fully interactive, realistic 3D Rubik's Cube. Features touch/mouse controls for layer rotation, smooth animations, and an auto-solve function.",
+  "requestFramePermissions": []
+}
